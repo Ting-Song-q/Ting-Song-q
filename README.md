@@ -38,14 +38,6 @@ Vision       OpenCV · 相机标定 · 手眼标定 · 目标检测
 Tools        Git · YAML 配置 · Linux
 ```
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Ting-Song-q&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ting-Song-q&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
-
-</div>
 
   ## 📫 Contact
 
