@@ -33,7 +33,6 @@ Feel free to reach out if you have any questions or would like to discuss resear
 - **Academic Email:** [xiaotaozhao@mail.sdu.edu.cn](mailto:xiaotaozhao@mail.sdu.edu.cn)
 - **Personal Email (checked more frequently):** [zhaoxt0282@163.com](mailto:zhaoxt0282@163.com)
 - GitHub: [@Ting-Song-q](https://github.com/Ting-Song-q)
-- 
 ---
 
 <div align="center">
