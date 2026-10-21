@@ -1,8 +1,8 @@
-<div align="center">
+ <div align="center">
 
 # 👋 Hi, I'm Ting-Song
 
-**山东大学 · 强化学习 / 计算机视觉**
+**Shandong University · Reinforcement Learning / Computer Vision**
 
 </div>
 
@@ -10,29 +10,32 @@
 
 ## ✨ About Me
 
-- 🎓 就读于 **山东大学（SDU）** 2023级本科生
+- 🎓 Undergraduate student at **Shandong University (SDU)**, Class of 2023
+- 🎓 Incoming Ph.D. student in **Artificial Intelligence** at **Shandong University**
+- 🔬 Research interests: Reinforcement Learning and Computer Vision
 
 ## 🚀 My Projects
 
-| 项目 | 简介 | 成果 |
+| Project | Description | Achievement |
 |------|------|------|
-| [**TTA_2026**](https://github.com/Ting-Song-q/TTA_2026) | 2026 全国大学生智能汽车竞赛 · 智慧救援：导航、抓取、放置与救援流程 | 全国一等奖 |
+| [**TTA_2026**](https://github.com/Ting-Song-q/TTA_2026) | 2026 National Undergraduate Intelligent Vehicle Competition — Smart Rescue: navigation, object grasping, placement, and the complete rescue workflow | **National First Prize** |
 
 ## 🛠️ My Research
 
-| 标题 | 期刊/会议 |
+| Paper Title | Journal / Conference |
 |------|------|
+| To be updated | — |
 
+## 📫 Contact
 
-  ## 📫 Contact
+- GitHub: [@Ting-Song-q](https://github.com/Ting-Song-q)
 
-  - GitHub: [@Ting-Song-q](https://github.com/Ting-Song-q)
-  ---
+---
 
-  <div align="center">
+<div align="center">
 
-  ⭐️ Thanks for visiting — feel free to star my projects!
+⭐️ Thanks for visiting my profile! Feel free to star my projects!
 
-  <img src="https://komarev.com/ghpvc/?username=Ting-Song-q&style=flat&color=0e75b6" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=Ting-Song-q&style=flat&color=0e75b6" alt="Profile Views" />
 
-  </div>
+</div>
