@@ -26,10 +26,14 @@
 |------|------|
 | To be updated | — |
 
-## 📫 Contact
+## 📫 Contact Me
 
+Feel free to reach out if you have any questions or would like to discuss research or potential collaborations!
+
+- **Academic Email:** [xiaotaozhao@mail.sdu.edu.cn](mailto:xiaotaozhao@mail.sdu.edu.cn)
+- **Personal Email (checked more frequently):** [zhaoxt0282@163.com](mailto:zhaoxt0282@163.com)
 - GitHub: [@Ting-Song-q](https://github.com/Ting-Song-q)
-
+- 
 ---
 
 <div align="center">
